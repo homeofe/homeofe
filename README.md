@@ -9,9 +9,6 @@ Building security tools and compliance platforms. Background in TISAX AL3 certif
 | Project | Description |
 |---|---|
 | [supply-chain-guard](https://github.com/homeofe/supply-chain-guard) | Open-source supply chain security scanner. Detects GlassWorm, XZ Utils, SolarWinds and 50+ attack patterns across npm, PyPI, and VS Code extensions. [GitHub Action](https://github.com/marketplace/actions/supply-chain-guard) |
-| [ai-security-arena](https://github.com/homeofe/ai-security-arena) | AI Red Team vs Blue Team cybersecurity battle platform. Model selection, live battle logs, scoring, scenario building |
-| [ai-red-team](https://github.com/homeofe/ai-red-team) | AI-powered offensive security agent for the Security Arena |
-| [ai-blue-team](https://github.com/homeofe/ai-blue-team) | AI-powered defensive security agent for the Security Arena |
 | [secure-dev-ai](https://github.com/homeofe/secure-dev-ai) | Security guard CLI: blocks agent runs on critical findings |
 
 ## 🤖 AI Agent Tooling (AAHP)
@@ -39,10 +36,13 @@ Building security tools and compliance platforms. Background in TISAX AL3 certif
 | [failprompt](https://github.com/elvatis/failprompt) | Extract failed CI logs into LLM-ready prompts |
 | [conduit-vscode](https://github.com/elvatis/conduit-vscode) | Multi-backend AI coding assistant for VS Code |
 | [conduit-bridge](https://github.com/elvatis/conduit-bridge) | OpenAI-compatible AI proxy: Grok, Claude, Gemini, ChatGPT via headless browser |
+| [elvatis-mcp](https://github.com/elvatis/elvatis-mcp) | MCP server for OpenClaw: expose smart home, memory, and automation tools to Claude Desktop, Cursor, Windsurf, and any MCP client |
 | [clawhub-scanner](https://github.com/elvatis/clawhub-scanner) | Security scanner for AI agent skill packages |
 | [openclaw-ispconfig](https://github.com/elvatis/openclaw-ispconfig) | Full ISPConfig hosting management (292 tools) |
 | [openclaw-homeassistant](https://github.com/elvatis/openclaw-homeassistant) | Smart home control via natural language |
 | [openclaw-inwx](https://github.com/elvatis/openclaw-inwx) | Domain and DNS management (INWX) |
+| [openclaw-rss-feeds](https://github.com/elvatis/openclaw-rss-feeds) | Fetch RSS feeds, enrich with CVE data, and publish digests to Ghost CMS |
+| [openclaw-msteams-bot-elvatis](https://github.com/elvatis/openclaw-msteams-bot-elvatis) | Microsoft Teams connector for OpenClaw with per-channel prompts and GitHub integration |
 
 [See all Elvatis repos →](https://github.com/orgs/elvatis/repositories?type=public)
 
