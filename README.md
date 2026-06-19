@@ -28,21 +28,11 @@ Building security tools and compliance platforms. Background in TISAX AL3 certif
 
 ## 🔧 Open Source @ [Elvatis](https://github.com/elvatis)
 
-20+ OpenClaw plugins and developer tools:
-
 | Tool | What it does |
 |---|---|
-| [commitprompt](https://github.com/elvatis/commitprompt) | AI-powered commit message generator from git diffs |
-| [failprompt](https://github.com/elvatis/failprompt) | Extract failed CI logs into LLM-ready prompts |
 | [conduit-vscode](https://github.com/elvatis/conduit-vscode) | Multi-backend AI coding assistant for VS Code |
 | [conduit-bridge](https://github.com/elvatis/conduit-bridge) | OpenAI-compatible AI proxy: Grok, Claude, Gemini, ChatGPT via headless browser |
-| [elvatis-mcp](https://github.com/elvatis/elvatis-mcp) | MCP server for OpenClaw: expose smart home, memory, and automation tools to Claude Desktop, Cursor, Windsurf, and any MCP client |
-| [clawhub-scanner](https://github.com/elvatis/clawhub-scanner) | Security scanner for AI agent skill packages |
-| [openclaw-ispconfig](https://github.com/elvatis/openclaw-ispconfig) | Full ISPConfig hosting management (292 tools) |
-| [openclaw-homeassistant](https://github.com/elvatis/openclaw-homeassistant) | Smart home control via natural language |
-| [openclaw-inwx](https://github.com/elvatis/openclaw-inwx) | Domain and DNS management (INWX) |
-| [openclaw-rss-feeds](https://github.com/elvatis/openclaw-rss-feeds) | Fetch RSS feeds, enrich with CVE data, and publish digests to Ghost CMS |
-| [openclaw-msteams-bot-elvatis](https://github.com/elvatis/openclaw-msteams-bot-elvatis) | Microsoft Teams connector for OpenClaw with per-channel prompts and GitHub integration |
+| [elvatis-mcp](https://github.com/elvatis/elvatis-mcp) | MCP server: expose smart home, memory, and automation tools to Claude Desktop, Cursor, Windsurf, and any MCP client |
 
 [See all Elvatis repos →](https://github.com/orgs/elvatis/repositories?type=public)
 
