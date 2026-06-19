@@ -2,7 +2,7 @@
 
 **IT Manager | Information Security Coordinator | Data Protection Coordinator**
 
-Building security tools and compliance platforms. Background in TISAX AL3 certification, NIS2 implementation, and game-theory-based procurement.
+Building security tools and compliance platforms. Background in TISAX AL3 certification and NIS2 implementation.
 
 ## 🛡️ Security & Compliance
 
