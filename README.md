@@ -16,6 +16,7 @@ Building security tools and compliance platforms. Background in TISAX AL3 certif
 | Project | Description |
 |---|---|
 | [AAHP](https://github.com/homeofe/AAHP) | Agent-Assisted Handoff Protocol: standardized context handoff between sequential AI agents |
+| [improvements](https://github.com/homeofe/improvements) | Portable multi-model AI workflow framework: model routing, structured agent handoff, and a 5-phase agent pipeline you drop into any repo |
 | [aahp-runner](https://github.com/homeofe/aahp-runner) | Autonomous CLI: spawns Claude agents to work through project tasks |
 | [aahp-orchestrator](https://github.com/homeofe/aahp-orchestrator) | VS Code extension: orchestrate GitHub Copilot and Claude Code with AAHP context |
 | [aahp-cron](https://github.com/homeofe/aahp-cron) | Pipeline orchestrator: schedules and runs aahp-runner across projects |
