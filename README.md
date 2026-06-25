@@ -11,6 +11,7 @@ Working with SMEs in **manufacturing**, **advertising agencies**, and **creative
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 ![ISO 27001](https://img.shields.io/badge/ISO_27001-Expert-c0392b?style=flat)
+![ISO 9001](https://img.shields.io/badge/ISO_9001-Quality-e67e22?style=flat)
 ![NIS2](https://img.shields.io/badge/NIS2-Compliant-1a5276?style=flat)
 ![TISAX AL3](https://img.shields.io/badge/TISAX-AL3-2c3e50?style=flat)
 ![DSB](https://img.shields.io/badge/Zertifizierter_DSB-27ae60?style=flat)
@@ -26,7 +27,7 @@ Working with SMEs in **manufacturing**, **advertising agencies**, and **creative
 
 ## ⚙️ Compliance & Automation (Elvatis Consulting)
 
-NIS2 assessments, ISO 27001 gap analyses, and workflow automation for SMEs — built with n8n, React, and Node.js.
+NIS2 assessments, ISO 27001 gap analyses, and workflow automation for SMEs, built with n8n, React, and Node.js.
 
 | Area | Focus |
 |---|---|
