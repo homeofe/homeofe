@@ -17,7 +17,7 @@ Working with SMEs in **manufacturing**, **advertising agencies**, and **creative
 ![DSB](https://img.shields.io/badge/Zertifizierter_DSB-27ae60?style=flat)
 
 ![Emre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=homeofe&show_icons=true&theme=dark&hide_border=true)
-
+![Elvatis GitHub Stats](https://github-readme-stats.vercel.app/api?username=elvatis&show_icons=true&theme=dark&hide_border=true)
 ## 🛡️ Security & Compliance
 
 | Project | Description |
