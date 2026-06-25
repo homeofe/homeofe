@@ -1,6 +1,6 @@
 # Hi, I'm Emre 👋
 
-**IT Manager | Information Security Coordinator | Data Protection Coordinator**
+**IT Manager | Information Security Coordinator | Data Protection Coordinator | Certified Data Protection Officer**
 
 Building security tools and compliance platforms. Background in TISAX AL3 certification and NIS2 implementation.
 
