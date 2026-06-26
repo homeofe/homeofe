@@ -18,6 +18,9 @@ Working with SMEs in **manufacturing**, **advertising agencies**, and **creative
 
 ![Emre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=homeofe&show_icons=true&theme=dark&hide_border=true)
 
+![Emre's GitHub Activity](https://gitlyy.vercel.app/api/contribution?username=homeofe&amp;hide_border=true)
+
+
 ## 🛡️ Security & Compliance
 
 | Project | Description |
