@@ -44,6 +44,7 @@ NIS2 assessments, ISO 27001 gap analyses, and workflow automation for SMEs, buil
 | Project | Description |
 |---|---|
 | [AAHP](https://github.com/homeofe/AAHP) | Agent-Assisted Handoff Protocol: standardized context handoff between sequential AI agents |
+| [aahp-swarm](https://github.com/homeofe/aahp-swarm) | Role-based review and verification swarm extending AAHP: independent Scout, Tester, Risk, and Verdict agents review work before it ships. Model-agnostic, review-first. [Why review comes first →](https://blog.elvatis.com/aahp-swarm-why-review-comes-first/) |
 | [improvements](https://github.com/homeofe/improvements) | Portable multi-model AI workflow framework: model routing, structured agent handoff, and a 5-phase agent pipeline you drop into any repo |
 | [aahp-runner](https://github.com/homeofe/aahp-runner) | Autonomous CLI: spawns Claude agents to work through project tasks |
 | [aahp-orchestrator](https://github.com/homeofe/aahp-orchestrator) | VS Code extension: orchestrate GitHub Copilot and Claude Code with AAHP context |
@@ -68,6 +69,8 @@ NIS2 assessments, ISO 27001 gap analyses, and workflow automation for SMEs, buil
 ## 📝 Blog
 
 Security and compliance from a practitioner's perspective: **[blog.elvatis.com](https://blog.elvatis.com)**
+
+Latest: [AAHP Swarm: Why Review Comes First](https://blog.elvatis.com/aahp-swarm-why-review-comes-first/). The promise is not autonomous magic. The promise is accountable assistance.
 
 ## 📫 Contact
 
