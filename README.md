@@ -16,7 +16,9 @@ Working with SMEs in **manufacturing**, **advertising agencies**, and **creative
 ![TISAX AL3](https://img.shields.io/badge/TISAX-AL3-2c3e50?style=flat)
 ![DSB](https://img.shields.io/badge/Zertifizierter_DSB-27ae60?style=flat)
 
-![Emre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=homeofe&show_icons=true&theme=dark&hide_border=true)
+
+![homeofe's Stats](https://github-readme-stats.vercel.app/api?username=homeofe&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![homeofe's Streak](https://github-readme-streak-stats.herokuapp.com/?user=homeofe&theme=vue-dark&hide_border=true)
 
 ![Emre's GitHub Activity](https://gitlyy.vercel.app/api/contribution?username=homeofe&amp;hide_border=true)
 
